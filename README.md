@@ -1,2 +1,2 @@
 # Practice first GitHub 
-,earning git hub
+learning git hub
